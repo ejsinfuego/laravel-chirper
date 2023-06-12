@@ -1,3 +1,14 @@
+This is the app would look like.
+
+![image](https://github.com/ejsinfuego/laravel-chirper/assets/67304574/c391ac69-a8d2-4a2e-830c-b3681967116b)
+
+I just followed the tutorial by <a href="https://bootcamp.laravel.com/introduction">Laravel Bootcamp</a>
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
